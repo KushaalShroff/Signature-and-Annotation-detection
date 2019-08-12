@@ -1,4 +1,4 @@
-# Faster R-CNN for Signature and Annotation detection by Keras
+# Faster R-CNN for Signature and Annotation detection using Keras
 ## Introduction
 The original code of Keras version of Faster R-CNN I used was written by yhenon (resource link: GitHub .) He used the PASCAL VOC 2007, 2012, and MS COCO datasets. I applied configs different from his work to fit my dataset and I removed unuseful code.
 
